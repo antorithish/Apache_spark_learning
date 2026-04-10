@@ -134,7 +134,3 @@ Spark Streaming:
 *"Normal Python is limited to a single machine and cannot handle large datasets efficiently. Hadoop distributes data across machines but reads and writes to disk at every step, making it slow. Spark improves on Hadoop by processing data entirely in memory, making it up to 100 times faster, and it also supports real-time streaming, SQL, and machine learning."*
 
 ---
-
-Next topic is **Spark Architecture** — Driver, Executor, Cluster Manager explained deeply with real flow.
-
-Say **"next"** 🔥
