@@ -138,7 +138,3 @@ print(result)
 ```
 
 ---
-
-**Next topic is: Spark vs Hadoop vs Normal Python** — full comparison so you understand why companies choose Spark.
-
-Ready? Say **"next"** 🔥
