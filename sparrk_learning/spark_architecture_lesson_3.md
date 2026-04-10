@@ -220,7 +220,3 @@ This is called **Fault Tolerance** — one of Spark's biggest features.
 *"Spark architecture has three main components. The Driver is the master program that creates the execution plan as a DAG and splits it into tasks. The Cluster Manager allocates machines and resources. Executors are worker processes that run tasks in parallel on their assigned data partitions and return results to the Driver."*
 
 ---
-
-Next topic is **SparkContext vs SparkSession** — what they are, difference, and when to use which.
-
-Say **"next"** 🔥
