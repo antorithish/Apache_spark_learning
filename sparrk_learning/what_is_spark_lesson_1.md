@@ -1,3 +1,5 @@
+<img width="1440" height="1228" alt="image" src="https://github.com/user-attachments/assets/da6f610b-2af3-4001-b759-659dfc13e7df" />
+
 Let me explain this completely — covering all your usual doubts automatically 🔥---
 
 ## 🧠 What is Apache Spark — Full Understanding
